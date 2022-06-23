@@ -1,0 +1,18 @@
+.green-child {
+    background-color: lightgreen;
+}
+
+.blue-child {
+    background-color: lightblue;
+}
+
+.teal-child {
+    background-color: #00FFCC;
+}
+
+div {
+    background-color: purple;
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid orange;
+}
